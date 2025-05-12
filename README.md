@@ -1,6 +1,5 @@
 # 👋 Hi there! I'm Abhishek
 
-💻 I'm a passionate Full Stack Developer who loves building impactful web applications and exploring modern tech stacks.
 
 <p align="left">
   💻 I'm a passionate Full Stack Developer who loves building impactful web applications and exploring modern tech stacks.
