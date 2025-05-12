@@ -4,13 +4,13 @@
 
 🔍 I enjoy solving problems, collaborating on cool projects, and constantly learning new things in tech!
 
-### 🛠️ Languages & Tools
+### 🛠️ Skills and Technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername/github-readme-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek8762&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/abhishek8762/github-readme-stats)
 
 ### ✨ Fun Facts
 - 🎮 I love anime, gaming, and reading manga.
