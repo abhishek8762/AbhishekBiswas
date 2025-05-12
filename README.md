@@ -14,6 +14,10 @@ I'm a dedicated Full Stack Developer focused on building clean, functional, and 
  
  Passionate about continuous learning, I enjoy working on real-world problems, collaborating with like-minded developers, and improving every day — one commit at a time.
 
+
+ ![Profile Views](https://komarev.com/ghpvc/?username=abhishek8762&color=blue)
+
+
 ---
 
 
