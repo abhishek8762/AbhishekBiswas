@@ -4,6 +4,8 @@
 
 🔍 I enjoy solving problems, collaborating on cool projects, and constantly learning new things in tech!
 
+<img src="https://github.com/abhishek8762/abhishek8762/blob/main/coding1.webp?raw=true" width="200"/>
+
 
 
 ### 🛠️ Skills and Technologies:
