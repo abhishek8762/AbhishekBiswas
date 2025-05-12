@@ -3,6 +3,7 @@
 💻 I'm a passionate Full Stack Developer who loves building impactful web applications and exploring modern tech stacks.
 
 <p align="left">
+  💻 I'm a passionate Full Stack Developer who loves building impactful web applications and exploring modern tech stacks.
   🔍 I enjoy solving problems, collaborating on cool projects, and constantly learning new things in tech!
 </p>
 
