@@ -1,21 +1,14 @@
-# 👋 Hi there! I'm Abhishek
 
 
-<table>
-  <tr>
-    <td >
-      <p>
-        💻 I'm a passionate Full Stack Developer who loves building impactful web applications and exploring modern tech stacks.
-      </p>
-      <p>
-        🔍 I enjoy solving problems, collaborating on cool projects, and constantly learning new things in tech!
-      </p>
-    </td>
-    <td>
-      <img src="https://github.com/abhishek8762/abhishek8762/blob/main/coding1.webp?raw=true" width="100%" />
-    </td>
-  </tr>
-</table>
+
+# <p align="center">👋 👋 Hi there! I'm Abhishek</p>
+
+<h3 align="center">A passionate Fullstack developer</h3>
+
+<img align="right" alt="Coding" width="300" src="https://github.com/abhishek8762/abhishek8762/blob/main/coding1.webp?raw=true">
+
+<br>
+🔍 I enjoy solving problems, collaborating on cool projects, and constantly learning new things in tech!
 
 
 ### 🛠️ Skills and Technologies:
