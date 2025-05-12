@@ -22,7 +22,7 @@ Primarily focused on building clean, functional, and user-focused web applicatio
 <br clear="right">
 
 
- ![Profile Views](https://komarev.com/ghpvc/?username=abhishek8762&color=blue)
+
 
 
 ---
@@ -57,8 +57,13 @@ Primarily focused on building clean, functional, and user-focused web applicatio
 - ✈️ Dreaming of traveling the world one city at a time.
 - 📚 Lifelong learner focused on tech & culture.
 
----
+
 
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhishek-biswas-890a35297/)
+
+
+---
+
+ ![Profile Views](https://komarev.com/ghpvc/?username=abhishek8762&color=blue)
