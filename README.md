@@ -4,6 +4,8 @@
 
 🔍 I enjoy solving problems, collaborating on cool projects, and constantly learning new things in tech!
 
+https://raw.githubusercontent.com/abhishek8762/abhishek8762/refs/heads/main/coding1.webp
+
 ### 🛠️ Skills and Technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
