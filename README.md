@@ -1,14 +1,16 @@
 
 
 
-# <p align="center">👋 👋 Hi there! I'm Abhishek</p>
+# <p align="center">👋 Hi there! I'm Abhishek</p>
 
 <h3 align="center">A passionate Fullstack developer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://github.com/abhishek8762/abhishek8762/blob/main/coding1.webp?raw=true">
 
 <br>
-🔍 I enjoy solving problems, collaborating on cool projects, and constantly learning new things in tech!
+
+I'm a dedicated Full Stack Developer focused on building clean, functional, and user-focused web applications. With a strong grasp of modern JavaScript frameworks and backend tools, I thrive on turning ideas into fully functional products.
+ Passionate about continuous learning, I enjoy working on real-world problems, collaborating with like-minded developers, and improving every day — one commit at a time.
 
 ---
 
