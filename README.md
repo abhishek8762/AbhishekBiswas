@@ -10,6 +10,8 @@
 <br>
 🔍 I enjoy solving problems, collaborating on cool projects, and constantly learning new things in tech!
 
+---
+
 
 ### 🛠️ Skills and Technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,10 +34,15 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek8762&show_icons=true&theme=radical)
 
+
+---
+
 ### ✨ Fun Facts
 - 🎮 I love anime, gaming, and reading manga.
 - ✈️ Dreaming of traveling the world one city at a time.
 - 📚 Lifelong learner focused on tech & culture.
+
+---
 
 
 ### 📫 Let's Connect!
