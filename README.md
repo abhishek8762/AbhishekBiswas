@@ -3,16 +3,23 @@
 
 # <p align="center">👋 Hi there! I'm Abhishek</p>
 
-<h3 align="center">A passionate Fullstack developer</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <img align="right" alt="Coding" width="300" src="https://github.com/abhishek8762/abhishek8762/blob/main/coding1.webp?raw=true">
 
 <br>
 
-I'm a dedicated Full Stack Developer focused on building clean, functional, and user-focused web applications. With a strong grasp of modern JavaScript frameworks and backend tools, I thrive on turning ideas into fully functional products.
+Primarily focused on building clean, functional, and user-focused web applications with a strong grasp of modern JavaScript frameworks and backend tools . I thrive on turning ideas into fully functional products.
 
  
  Passionate about continuous learning, I enjoy working on real-world problems, collaborating with like-minded developers, and improving every day — one commit at a time.
+
+
+ <br>
+
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+<br clear="right">
 
 
  ![Profile Views](https://komarev.com/ghpvc/?username=abhishek8762&color=blue)
